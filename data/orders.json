@@ -1,0 +1,7 @@
+{
+  "1001": {"item": "Wireless Headphones", "status": "Shipped", "eta": "2026-07-23", "carrier": "BlueDart", "tracking": "BD738291IN"},
+  "1002": {"item": "Running Shoes (Size 9)", "status": "Out for Delivery", "eta": "2026-07-20", "carrier": "Delhivery", "tracking": "DL229384IN"},
+  "1003": {"item": "Smart Watch", "status": "Processing", "eta": "2026-07-25", "carrier": null, "tracking": null},
+  "1004": {"item": "Backpack", "status": "Delivered", "eta": "2026-07-15", "carrier": "BlueDart", "tracking": "BD991827IN"},
+  "1005": {"item": "Bluetooth Speaker", "status": "Cancelled", "eta": null, "carrier": null, "tracking": null}
+}
